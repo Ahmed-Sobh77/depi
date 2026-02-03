@@ -1,0 +1,14 @@
+C:\Users\albaseet\source\repos\depi\depi\bin\Debug\net10.0\depi.exe
+C:\Users\albaseet\source\repos\depi\depi\bin\Debug\net10.0\depi.deps.json
+C:\Users\albaseet\source\repos\depi\depi\bin\Debug\net10.0\depi.runtimeconfig.json
+C:\Users\albaseet\source\repos\depi\depi\bin\Debug\net10.0\depi.dll
+C:\Users\albaseet\source\repos\depi\depi\bin\Debug\net10.0\depi.pdb
+C:\Users\albaseet\source\repos\depi\depi\obj\Debug\net10.0\depi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albaseet\source\repos\depi\depi\obj\Debug\net10.0\depi.AssemblyInfoInputs.cache
+C:\Users\albaseet\source\repos\depi\depi\obj\Debug\net10.0\depi.AssemblyInfo.cs
+C:\Users\albaseet\source\repos\depi\depi\obj\Debug\net10.0\depi.csproj.CoreCompileInputs.cache
+C:\Users\albaseet\source\repos\depi\depi\obj\Debug\net10.0\depi.dll
+C:\Users\albaseet\source\repos\depi\depi\obj\Debug\net10.0\refint\depi.dll
+C:\Users\albaseet\source\repos\depi\depi\obj\Debug\net10.0\depi.pdb
+C:\Users\albaseet\source\repos\depi\depi\obj\Debug\net10.0\depi.genruntimeconfig.cache
+C:\Users\albaseet\source\repos\depi\depi\obj\Debug\net10.0\ref\depi.dll
