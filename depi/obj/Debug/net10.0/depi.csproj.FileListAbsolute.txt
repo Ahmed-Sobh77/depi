@@ -12,3 +12,4 @@ C:\Users\albaseet\source\repos\depi\depi\obj\Debug\net10.0\refint\depi.dll
 C:\Users\albaseet\source\repos\depi\depi\obj\Debug\net10.0\depi.pdb
 C:\Users\albaseet\source\repos\depi\depi\obj\Debug\net10.0\depi.genruntimeconfig.cache
 C:\Users\albaseet\source\repos\depi\depi\obj\Debug\net10.0\ref\depi.dll
+C:\Users\albaseet\source\repos\depi\depi\obj\Debug\net10.0\depi.sourcelink.json

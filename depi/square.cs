@@ -6,8 +6,8 @@ namespace depi
 {
     internal class Square : rectangle
     {
-        public int x,y;
-        public Square(int x)
+    
+        public Square(int x):base(x,x)
         {
             this.x = x;
             this.y = x;

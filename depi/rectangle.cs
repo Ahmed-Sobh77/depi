@@ -6,8 +6,6 @@ namespace depi
 {
     internal class rectangle : shape
     {
-        public int x,y;
-        public rectangle() { }
        public rectangle(int x,int y)
         {
             this.x = x;

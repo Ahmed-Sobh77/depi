@@ -6,7 +6,6 @@ namespace depi
 {
     internal class circle : shape
     {
-        public int x;
         public circle(int x)
         {
             this.x = x;
